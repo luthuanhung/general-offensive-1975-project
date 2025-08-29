@@ -6,8 +6,8 @@ bool UNIT_TEST_Task4::Task423() {
     string cfg = "test/unit_test_Task4/test_case/input/config423.txt";
     ofstream ofs(cfg);
     // Edge case: missing EVENT_CODE line -> default to 0 (Liberation attacks)
-    ofs << "NUM_COLS=10\n"; //!8->10
-    ofs << "NUM_ROWS=12\n"; //!10->12
+    ofs << "NUM_COLS=8\n"; //!8->10
+    ofs << "NUM_ROWS=10\n"; //!10->12
     ofs << "ARRAY_FOREST=[(1,2),(3,5)]\n";
     ofs << "ARRAY_RIVER=[(0,0),(0,4)]\n";
     ofs << "ARRAY_FORTIFICATION=[(6,6)]\n";
