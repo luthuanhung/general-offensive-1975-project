@@ -1,5 +1,5 @@
 ## 📖 Introduction
-**general-offensive-1975-project** is a **C++ project** demonstrating fundamental **data structures and algorithms**, inspired by the **Spring 1975 General Offensive and Uprising**, marking Vietnam’s **Reunification Day (April 30th)**.  
+**general-offensive-1975-project** is a **C++ project** demonstrating fundamental **data structures and algorithms**, inspired by the **Spring 1975 General Offensive and Uprising**, marking Vietnam’s **Reunification Day (April 30th)**.<br>
 This project is developed to commemorate the **50th anniversary (1975–2025)**, also known as **A50**.  
 
 ---
@@ -27,23 +27,26 @@ This project is developed to commemorate the **50th anniversary (1975–2025)**,
   - Easier debugging and project management for beginners on Windows
 
 ## ▶️ How to Run
-Open the terminal in VSCode, you can compiled it with:
-.\run.bat
-and run with:
+Open the terminal in VSCode, you can compiled it with:<br>
+.\run.bat<br>
+and run with:<br>
 .\main
 
 📊 Expected Output
 When running the program, the expected output will be:
 <img width="1511" height="957" alt="Screenshot 2025-08-31 020203" src="https://github.com/user-attachments/assets/c4a60bb3-7a0b-4f9b-ac16-eac4616826af" />
 
-If the result isn't "All tests passed!", you should look under the "Test Results", it will appear failed test.
-You can find failed tests in the path:
-**test\unit_test_Task4\test_case**
+If the result isn't "All tests passed!", you should look under the "Test Results", it will appear failed test. You can find failed tests in the path:
+```
+test\unit_test_Task4\test_case
+```
 
 🛠️ Fixing Instructions
 - Edit and fix the files:
+```
 src/hcmcampaign.h  
 src/hcmcampaign.cpp
+```
 - Do not touch other files except you need some special fix.
 - Keep adjusting hcmcampaign.h and hcmcampaign.cpp until all tests pass.
 
