@@ -40,7 +40,7 @@ and run with:
 
 ---
 
-📊 Expected Output
+## 📊 Expected Output
 When running the program, the expected output will be:
 <img width="1511" height="957" alt="Screenshot 2025-08-31 020203" src="https://github.com/user-attachments/assets/c4a60bb3-7a0b-4f9b-ac16-eac4616826af" />
 
@@ -51,7 +51,7 @@ test\unit_test_Task4\test_case
 
 ---
 
-🛠️ Fixing Instructions
+## 🛠️ Fixing Instructions
 - Edit and fix the files:
 ```
 src/hcmcampaign.h  
@@ -62,7 +62,7 @@ src/hcmcampaign.cpp
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 ```
 │── .vscode/ # VS Code configuration files
 │ ├── c_cpp_properties.json
@@ -97,11 +97,11 @@ src/hcmcampaign.cpp
 
 ---
 
-📅 Milestones
+## 📅 Milestones
 Release for the 50th Anniversary (2025).
 
 ---
 
-📜 License
+## 📜 License
 This project is released under the MIT License.
 You are free to use, modify, and distribute it with proper attribution.
