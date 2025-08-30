@@ -1,5 +1,3 @@
-<img width="1511" height="957" alt="image" src="https://github.com/user-attachments/assets/50641cef-0309-40a0-b1b5-4b90698fed97" /># general-offensive-1975-project
-
 ## 📖 Introduction
 **general-offensive-1975-project** is a **C++ project** demonstrating fundamental **data structures and algorithms**, inspired by the **Spring 1975 General Offensive and Uprising**, marking Vietnam’s **Reunification Day (April 30th)**.  
 This project is developed to commemorate the **50th anniversary (1975–2025)**, also known as **A50**.  
@@ -49,7 +47,8 @@ src/hcmcampaign.cpp
 - Do not touch other files except you need some special fix.
 - Keep adjusting hcmcampaign.h and hcmcampaign.cpp until all tests pass.
 
-📂 Project Structure (Suggested)
+📂 Project Structure
+```
 │── .vscode/ # VS Code configuration files
 │ ├── c_cpp_properties.json
 │ ├── launch.json
@@ -79,6 +78,8 @@ src/hcmcampaign.cpp
 │── run.bat # Script to compile & run on Windows
 │── run.sh # Script to compile & run on Linux/macOS
 │── README.md # Project documentation
+```
+
 📅 Milestones
 Release for the 50th Anniversary (2025).
 
