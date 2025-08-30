@@ -1,6 +1,6 @@
 ## 📖 Introduction
-**general-offensive-1975-project** is a **C++ project** demonstrating fundamental **data structures and algorithms**, inspired by the **Spring 1975 General Offensive and Uprising**, marking Vietnam’s **Reunification Day (April 30th)**.<br>
-This project is developed to commemorate the **50th anniversary (1975–2025)**, also known as **A50**.  
+- **general-offensive-1975-project** is a **C++ project** demonstrating fundamental **data structures and algorithms**, inspired by the **Spring 1975 General Offensive and Uprising**, marking Vietnam’s **Reunification Day (April 30th)**.
+- This project is developed to commemorate the **50th anniversary (1975–2025)**, also known as **A50**.  
 
 ---
 
@@ -26,11 +26,19 @@ This project is developed to commemorate the **50th anniversary (1975–2025)**,
   - Full IDE with built-in MSVC compiler  
   - Easier debugging and project management for beginners on Windows
 
+---
+
 ## ▶️ How to Run
-Open the terminal in VSCode, you can compiled it with:<br>
-.\run.bat<br>
-and run with:<br>
+Open the terminal in VSCode, you can compiled it with:
+```
+.\run.bat
+```
+and run with:
+```
 .\main
+```
+
+---
 
 📊 Expected Output
 When running the program, the expected output will be:
@@ -41,6 +49,8 @@ If the result isn't "All tests passed!", you should look under the "Test Results
 test\unit_test_Task4\test_case
 ```
 
+---
+
 🛠️ Fixing Instructions
 - Edit and fix the files:
 ```
@@ -49,6 +59,8 @@ src/hcmcampaign.cpp
 ```
 - Do not touch other files except you need some special fix.
 - Keep adjusting hcmcampaign.h and hcmcampaign.cpp until all tests pass.
+
+---
 
 📂 Project Structure
 ```
@@ -83,8 +95,12 @@ src/hcmcampaign.cpp
 │── README.md # Project documentation
 ```
 
+---
+
 📅 Milestones
 Release for the 50th Anniversary (2025).
+
+---
 
 📜 License
 This project is released under the MIT License.
